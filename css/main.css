@@ -1,0 +1,21 @@
+#title {
+	text-align: center;
+	font-size: 2em;
+}
+
+
+#home-buttons {
+	text-align: center;
+	text-decoration: none;
+	font-size: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+form {
+	text-align: center;
+	font-size: 1.5em;
+}
